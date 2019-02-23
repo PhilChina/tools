@@ -7,3 +7,9 @@
    5. git commit -m "更新的描述"
    6. git push
    
+### pycharm && anaconda 环境搭建
+    推荐一篇博文好啦，写得很好，很详细
+    http://www.cnblogs.com/yuxuefeng/articles/9235431.html
+    anaconda 用来配置环境，pycharm 用来编程，不用安装python以及后续的各种需要pip安装的模块
+    然后文中详细介绍了如果pycharm中配置anaconda,这样就将这两个独立的软件连接起来了。
+    
